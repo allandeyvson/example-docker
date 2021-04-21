@@ -1,0 +1,7 @@
+###
+GET http://localhost:3000/clients
+
+###
+POST http://localhost:3000/clients
+
+{"name": "teste01"}
